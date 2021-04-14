@@ -70,7 +70,7 @@ namespace Affärssystem
             // 
             this.AddFromWholesalerButton.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.AddFromWholesalerButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.AddFromWholesalerButton.Location = new System.Drawing.Point(1131, 439);
+            this.AddFromWholesalerButton.Location = new System.Drawing.Point(1150, 440);
             this.AddFromWholesalerButton.Name = "AddFromWholesalerButton";
             this.AddFromWholesalerButton.Size = new System.Drawing.Size(335, 41);
             this.AddFromWholesalerButton.TabIndex = 5;
@@ -81,7 +81,7 @@ namespace Affärssystem
             // 
             this.RemoveProductButton.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.RemoveProductButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.RemoveProductButton.Location = new System.Drawing.Point(955, 439);
+            this.RemoveProductButton.Location = new System.Drawing.Point(974, 440);
             this.RemoveProductButton.Name = "RemoveProductButton";
             this.RemoveProductButton.Size = new System.Drawing.Size(170, 41);
             this.RemoveProductButton.TabIndex = 4;
@@ -206,7 +206,7 @@ namespace Affärssystem
             this.MainSplitContainer.Panel2.Controls.Add(this.RemoveProductButton);
             this.MainSplitContainer.Panel2.Controls.Add(this.AddFromWholesalerButton);
             this.MainSplitContainer.Size = new System.Drawing.Size(1499, 731);
-            this.MainSplitContainer.SplitterDistance = 238;
+            this.MainSplitContainer.SplitterDistance = 237;
             this.MainSplitContainer.TabIndex = 15;
             // 
             // CancelButton
