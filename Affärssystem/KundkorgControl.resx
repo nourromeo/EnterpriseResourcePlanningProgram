@@ -117,23 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="AddToCartButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAAALEAAACxAcYtSY0AAAAZdEVYdFNvZnR3YXJlAHd3dy5pbmtzY2FwZS5vcmeb7jwa
-        AAAAd0lEQVRIS+3UMQ5AQBBG4WnphAtq3MkJVKLR0ag0EjdRuABvVFtsJTOJxL7kKySSP2GRVOoz1ehQ
-        PFcOtbiwwWUkxwwd2VHCPB2Z4DqSIRypIAMOQyd0QC2QEbEb3woHVpgWfURWub5k92Pq/qE16OH2q0j9
-        N5EbHIpDLdo8oO4AAAAASUVORK5CYII=
-</value>
-  </data>
-  <data name="RemoveFromCartButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAAALEAAACxAcYtSY0AAAAZdEVYdFNvZnR3YXJlAHd3dy5pbmtzY2FwZS5vcmeb7jwa
-        AAAAd0lEQVRIS+2TMQ5AQBBFt6fgklxJp9TQuQAlzqJwAd7fZBMHmKWZl7xipvg/mewGx8lCjQO2cTJG
-        4Qfe2GlhSYUbKnzFEs14hy9oGq6z7JjCCzRF51C4vPA0dMasBRPmvX/i8xLzZ5p4f7ReixyoZMQmTo7z
-        MyE8EfBDMmQA1CYAAAAASUVORK5CYII=
-</value>
-  </data>
 </root>

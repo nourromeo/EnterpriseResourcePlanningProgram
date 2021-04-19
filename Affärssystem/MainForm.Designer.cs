@@ -61,7 +61,7 @@ namespace Affärssystem
             this.KundkorgTab.Location = new System.Drawing.Point(4, 29);
             this.KundkorgTab.Name = "KundkorgTab";
             this.KundkorgTab.Padding = new System.Windows.Forms.Padding(3);
-            this.KundkorgTab.Size = new System.Drawing.Size(1470, 782);
+            this.KundkorgTab.Size = new System.Drawing.Size(1384, 815);
             this.KundkorgTab.TabIndex = 1;
             this.KundkorgTab.Text = "Kundkorg";
             this.KundkorgTab.UseVisualStyleBackColor = true;

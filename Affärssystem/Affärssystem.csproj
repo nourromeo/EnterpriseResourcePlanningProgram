@@ -71,12 +71,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AddDelivery.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="AddDelivery.Designer.cs">
-      <DependentUpon>AddDelivery.cs</DependentUpon>
-    </Compile>
     <Compile Include="KundkorgControl.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -98,9 +92,7 @@
     <Compile Include="Product.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="AddDelivery.resx">
-      <DependentUpon>AddDelivery.cs</DependentUpon>
-    </EmbeddedResource>
+    <Compile Include="ShoppingCart.cs" />
     <EmbeddedResource Include="KundkorgControl.resx">
       <DependentUpon>KundkorgControl.cs</DependentUpon>
     </EmbeddedResource>
